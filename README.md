@@ -6,3 +6,5 @@ The default command is "^tax {number}", but feel free to change it if you wish.
 You can specify a tax channel where you only throw a number like "2000" and it calculates the taxes.
 
 The bot also supports {num}K for 1000, {num}M for 1000000, {num}B for 1000000000.
+
+I'll add Arabic on 5 stars ;-;
